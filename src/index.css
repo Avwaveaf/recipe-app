@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Young+Serif&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, html, body{
+ font-family: 'Outfit', sans-serif;
+
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;
+}
+
+.title__secondary {
+  @apply font-bold text-darkRaspberry font-youngSerif text-2xl;
+}
