@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: 
-- Live Site URL:
+- Solution URL: https://recipe-app-kappa-three.vercel.app/
+- Live Site URL: https://recipe-app-kappa-three.vercel.app/
 
 ## My process
 
